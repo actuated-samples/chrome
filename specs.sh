@@ -26,3 +26,4 @@ cat /etc/os-release
 
 echo Egress IP:
 curl -s -L -S https://checkip.amazonaws.com
+
